@@ -1,0 +1,3 @@
+second commitfatal: Not a valid object name: 'master'.
+fatal: Not a valid object name: 'master'.
+
